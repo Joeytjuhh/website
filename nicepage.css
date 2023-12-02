@@ -42324,31 +42324,9 @@ a.u-link.u-text-hover-grey-90:hover {
   margin-bottom: 0;
 }
 
-.u-header .u-text-1 {
-  font-weight: 700;
-  margin: 31px auto 0;
-}
 
-.u-header .u-text-2 {
-  margin: -10px auto 17px;
-}
-@media (max-width: 1199px) {
-  .u-header .u-text-2 {
-    margin-top: -10px;
-  }
-}
 
-@media (max-width: 767px) {
-  .u-header .u-text-2 {
-    margin-bottom: 60px;
-  }
-}
-@media (max-width: 575px) {
-  .u-header .u-text-2 {
-    margin-left: 1px;
-    margin-right: 1px;
-  }
-}
+
  .u-footer {
   background-image: none;
 }
