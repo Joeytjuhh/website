@@ -42324,39 +42324,9 @@ a.u-link.u-text-hover-grey-90:hover {
   margin-bottom: 0;
 }
 
-.u-header .u-gallery-1 {
-  height: 503px;
-  width: 481px;
-  margin: 30px auto 0 0;
-}
 
-.u-header .u-gallery-inner-1 {
-  grid-gap: 10px 10px;
-}
-@media (max-width: 1199px) {
-  .u-header .u-gallery-inner-1 {
-    grid-template-columns: repeat(3, auto);
-  }
-}
-@media (max-width: 991px) {
-  .u-header .u-gallery-inner-1 {
-    grid-template-columns: repeat(2, auto);
-  }
-}
-@media (max-width: 767px) {
-  .u-header .u-gallery-inner-1 {
-    grid-template-columns: repeat(1, auto);
-  }
-}
-@media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 126px;
-  }
 
-  .u-header .u-gallery-1 {
-    width: 340px;
-  }
-}
+
  .u-footer {
   background-image: none;
 }
