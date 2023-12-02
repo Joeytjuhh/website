@@ -42320,33 +42320,17 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 150px;
+  min-height: 80px;
 }
 
 .u-header .u-text-1 {
   font-weight: 700;
-  margin: 18px auto 60px 347px;
+  margin: 28px auto 0 0;
 }
-@media (max-width: 1199px) {
-  .u-header .u-text-1 {
-    margin-left: 286px;
-  }
-}
-@media (max-width: 991px) {
-  .u-header .u-text-1 {
-    margin-left: 219px;
-  }
-}
-@media (max-width: 767px) {
-  .u-header .u-text-1 {
-    margin-left: 164px;
-  }
-}
-@media (max-width: 575px) {
-  .u-header .u-text-1 {
-    margin-left: 103px;
-  }
-}
+
+
+
+
  .u-footer {
   background-image: none;
 }
